@@ -13,7 +13,9 @@
 :triangular_flag_on_post: Что особенного:
 
 - [x] Page Object
+- [x] Allure steps
 - [x] Allure report
+- [x] Параметризированный тест
 - [x] Параметризованная сборка
 - [x] Интеграция с TestOps
 
