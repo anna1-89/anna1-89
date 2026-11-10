@@ -7,7 +7,7 @@
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
 
 ## Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="https://github.com/anna1-89/krimskayakosmtica_autotests">Крымская-косметика.рф</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/anna1-89/krimskayakosmtica_autotests">krimskayakosmetica_autotests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 :heavy_check_mark: Реализованы автотесты UI на проверку основных функций сайта - работа меню, регистрация, авторизация, поиск товара, добавления товара в Избранное и Корзину.</br></br>
 :triangular_flag_on_post: Что особенного:
