@@ -32,7 +32,7 @@
 
 
 ## Тестирование мобильного приложения
-:link: Тестовый проект: <a target="_blank" href="https://github.com/anna1-89/mobile-simple-tests">Wikimedia mobile tests</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/anna1-89/mobile-simple-tests">Wikipedia mobile tests</a></br></br>
 ![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/browserstack.svg)</br></br>
 :heavy_check_mark: Реализованы автотесты Mobile части функций мобильного приложения: поиск статьи, просмотр статьи, сохранение статьи и удаление статьи из сохраненных. Приложение https://github.com/wikimedia/apps-android-wikipedia/releases</br></br>
 :triangular_flag_on_post: Что особенного:
